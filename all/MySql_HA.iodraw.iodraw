@@ -65,8 +65,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gh8QJxWTIcHXIQEo2gDr-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="520" y="540" width="60" height="80" as="geometry" />
+        <mxCell id="Gh8QJxWTIcHXIQEo2gDr-2" value="Icon" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="520" y="550" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
