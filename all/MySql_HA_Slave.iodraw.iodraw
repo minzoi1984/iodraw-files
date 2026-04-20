@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gh8QJxWTIcHXIQEo2gDr-25" value="All services read/write on this mysql" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="70" y="560" width="170" height="110" as="geometry" />
+          <mxGeometry x="870" y="570" width="170" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
