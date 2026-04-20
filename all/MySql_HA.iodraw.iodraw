@@ -52,6 +52,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Gh8QJxWTIcHXIQEo2gDr-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="39150e848f15840c-18">
+          <mxGeometry x="0.6587" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Gh8QJxWTIcHXIQEo2gDr-2" value="switch" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="460" y="460" width="60" height="60" as="geometry" />
         </mxCell>
