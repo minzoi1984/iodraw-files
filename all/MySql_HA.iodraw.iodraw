@@ -79,8 +79,8 @@
             <mxPoint x="367.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gh8QJxWTIcHXIQEo2gDr-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="Gh8QJxWTIcHXIQEo2gDr-25" value="All services read/write on this mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
