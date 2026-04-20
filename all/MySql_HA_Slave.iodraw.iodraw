@@ -55,7 +55,7 @@
         <mxCell id="Gh8QJxWTIcHXIQEo2gDr-2" value="switch" style="icon;html=1;image=img/clipart/Gear_128x128.png" parent="1" vertex="1">
           <mxGeometry x="460" y="460" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gh8QJxWTIcHXIQEo2gDr-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="Gh8QJxWTIcHXIQEo2gDr-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="130" y="250" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Gh8QJxWTIcHXIQEo2gDr-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="Gh8QJxWTIcHXIQEo2gDr-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="367.5" y="750" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Gh8QJxWTIcHXIQEo2gDr-19" value="active" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Gh8QJxWTIcHXIQEo2gDr-19" value="dead" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="165" y="252.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gh8QJxWTIcHXIQEo2gDr-20" value="active" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
