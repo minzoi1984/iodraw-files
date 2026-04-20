@@ -55,8 +55,8 @@
         <mxCell id="Gh8QJxWTIcHXIQEo2gDr-2" value="switch" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="460" y="460" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gh8QJxWTIcHXIQEo2gDr-15" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#006600;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="Gh8QJxWTIcHXIQEo2gDr-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="195" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
