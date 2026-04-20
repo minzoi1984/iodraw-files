@@ -55,7 +55,7 @@
         <mxCell id="Gh8QJxWTIcHXIQEo2gDr-2" value="switch" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="460" y="460" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gh8QJxWTIcHXIQEo2gDr-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Gh8QJxWTIcHXIQEo2gDr-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="130" y="250" width="35" height="35" as="geometry" />
         </mxCell>
       </root>
