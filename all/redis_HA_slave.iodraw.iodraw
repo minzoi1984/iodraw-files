@@ -65,15 +65,15 @@
           <mxGeometry x="400" y="752.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gh8QJxWTIcHXIQEo2gDr-25" value="All services read/write on this mysql" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="780" y="652.5" width="190" height="100" as="geometry" />
+          <mxGeometry x="780" y="640" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7OW4wVA9v2Sx9GMaEqTk-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.364;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="640" as="sourcePoint" />
-            <mxPoint x="800.04" y="203" as="targetPoint" />
+            <mxPoint x="800" y="627" as="sourcePoint" />
+            <mxPoint x="800.04" y="190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="800" y="550" />
-              <mxPoint x="800" y="560" />
+              <mxPoint x="800" y="537" />
+              <mxPoint x="800" y="547" />
             </Array>
           </mxGeometry>
         </mxCell>
