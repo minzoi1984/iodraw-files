@@ -32,13 +32,10 @@
         <mxCell id="Gh8QJxWTIcHXIQEo2gDr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="39150e848f15840c-7" target="39150e848f15840c-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1D8M2_4RadZRS35cVLhk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="39150e848f15840c-7" target="1D8M2_4RadZRS35cVLhk-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="39150e848f15840c-7" value="keep Alive 2" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
+        <mxCell id="39150e848f15840c-7" value="Sentinel" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="135" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="39150e848f15840c-8" value="MySQL slave" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="39150e848f15840c-8" value="Redis" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="720" y="140" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="39150e848f15840c-10" value="Keep Alive 3" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
@@ -76,16 +73,13 @@
         <mxCell id="Gh8QJxWTIcHXIQEo2gDr-25" value="All services read/write on this mysql" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="870" y="570" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1D8M2_4RadZRS35cVLhk-3" value="VIP" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="595" y="230" width="50" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="1D8M2_4RadZRS35cVLhk-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="220" y="440" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1D8M2_4RadZRS35cVLhk-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.72;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Gh8QJxWTIcHXIQEo2gDr-25" target="1D8M2_4RadZRS35cVLhk-3" edge="1">
+        <mxCell id="1D8M2_4RadZRS35cVLhk-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.72;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Gh8QJxWTIcHXIQEo2gDr-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="600" as="sourcePoint" />
-            <mxPoint x="570" y="550" as="targetPoint" />
+            <mxPoint x="631" y="273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
