@@ -73,12 +73,6 @@
         <mxCell id="Gh8QJxWTIcHXIQEo2gDr-25" value="All services read/write on this mysql" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="630" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1D8M2_4RadZRS35cVLhk-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.72;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Gh8QJxWTIcHXIQEo2gDr-25" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="600" as="sourcePoint" />
-            <mxPoint x="631" y="273" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
