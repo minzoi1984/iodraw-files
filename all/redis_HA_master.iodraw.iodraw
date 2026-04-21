@@ -73,13 +73,13 @@
         <mxCell id="Gh8QJxWTIcHXIQEo2gDr-25" value="All services read/write on this mysql" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="630" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7OW4wVA9v2Sx9GMaEqTk-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="7OW4wVA9v2Sx9GMaEqTk-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.364;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.776;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gh8QJxWTIcHXIQEo2gDr-25" target="39150e848f15840c-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="600" as="sourcePoint" />
-            <mxPoint x="570" y="550" as="targetPoint" />
+            <mxPoint x="170" y="560" as="sourcePoint" />
+            <mxPoint x="220" y="510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="580" />
-              <mxPoint x="550" y="590" />
+              <mxPoint x="200" y="540" />
+              <mxPoint x="200" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
