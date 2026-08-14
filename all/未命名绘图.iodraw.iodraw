@@ -31,14 +31,14 @@
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-9" value="Redis / MQ / Nacos" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="819" y="775" width="198" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gOiUKY6sjZQZ4uEXSWkE-10" value=" AP / Web" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gOiUKY6sjZQZ4uEXSWkE-10" value=" AP / Web" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="604" y="955" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-11" value=" AP / Web" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="923.5" y="955" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-12" value="AP / Web" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="955" width="160" height="49" as="geometry" />
+          <mxGeometry x="1240" y="955" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-13" value="Load Balancing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="916.5" y="1290" width="167" height="49" as="geometry" />
