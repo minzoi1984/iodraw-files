@@ -41,7 +41,7 @@
           <mxGeometry x="1248" y="947" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-13" value="Load Balancing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1034" y="1094" width="167" height="49" as="geometry" />
+          <mxGeometry x="575.5" y="1241" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-14" value="bidirectional" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.37;rounded=0;" edge="1" parent="1" source="gOiUKY6sjZQZ4uEXSWkE-4" target="gOiUKY6sjZQZ4uEXSWkE-10">
           <mxGeometry relative="1" as="geometry">
