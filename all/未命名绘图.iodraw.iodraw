@@ -52,8 +52,8 @@
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-25" value="AP/Web" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="990" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gOiUKY6sjZQZ4uEXSWkE-27" value="Live" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1200" width="90" height="30" as="geometry" />
+        <mxCell id="gOiUKY6sjZQZ4uEXSWkE-27" value="LiveMaster" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1200" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-28" value="standby" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1440" y="1250" width="90" height="30" as="geometry" />
