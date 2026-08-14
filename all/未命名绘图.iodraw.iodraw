@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="640" y="930" width="1064" height="99" as="geometry" />
+          <mxGeometry x="483" y="930" width="1064" height="99" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-2" value="Redis / MQ / Nacos Cluster" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="784" y="750" width="763" height="99" as="geometry" />
@@ -83,12 +83,6 @@
             <Array as="points">
               <mxPoint x="1413" y="922" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gOiUKY6sjZQZ4uEXSWkE-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.439;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gOiUKY6sjZQZ4uEXSWkE-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="967" y="1290" as="sourcePoint" />
-            <mxPoint x="1017" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
