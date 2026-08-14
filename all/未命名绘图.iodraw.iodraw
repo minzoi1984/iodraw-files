@@ -17,9 +17,9 @@
           <mxGeometry x="335" y="775" width="203" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-5" value="MySQL / Keepalived" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="588" y="775" width="203" height="49" as="geometry" />
+          <mxGeometry x="680" y="827" width="203" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gOiUKY6sjZQZ4uEXSWkE-6" value="Keepalived" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gOiUKY6sjZQZ4uEXSWkE-6" value="Keepalived" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="840" y="775" width="138" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-7" value="Redis / MQ / Nacos" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
