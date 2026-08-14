@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="930" width="1334" height="99" as="geometry" />
+          <mxGeometry x="640" y="930" width="1064" height="99" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-2" value="Redis / MQ / Nacos Cluster" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="784" y="750" width="763" height="99" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="460" y="955" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-11" value="Live AP / Web" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1038" y="947" width="160" height="49" as="geometry" />
+          <mxGeometry x="800" y="955" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-12" value="Live AP / Web" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1248" y="947" width="160" height="49" as="geometry" />
+          <mxGeometry x="1050" y="955" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-13" value="Load Balancing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="890" y="1290" width="167" height="49" as="geometry" />
