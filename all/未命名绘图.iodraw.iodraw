@@ -88,8 +88,11 @@
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1000" y="1290" as="sourcePoint" />
-            <mxPoint x="1050" y="1240" as="targetPoint" />
+            <mxPoint x="1000" y="1030" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gOiUKY6sjZQZ4uEXSWkE-25" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1020" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
