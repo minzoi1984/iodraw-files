@@ -17,7 +17,7 @@
           <mxGeometry x="335" y="775" width="203" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-5" value="MySQL / Keepalived" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="570" y="775" width="203" height="49" as="geometry" />
+          <mxGeometry x="577" y="775" width="203" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-6" value="Keepalived" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="840" y="775" width="138" height="49" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="570" y="830" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-30" value="Redis/MQ/Nacos Cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="830" width="60" height="30" as="geometry" />
+          <mxGeometry x="1470" y="830" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
