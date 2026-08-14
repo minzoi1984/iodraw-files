@@ -14,10 +14,10 @@
           <mxGeometry x="300" y="750" width="730" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-4" value="MySQL / Keepalived" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="335" y="775" width="203" height="49" as="geometry" />
+          <mxGeometry x="330" y="775" width="203" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-5" value="MySQL / Keepalived" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="577" y="775" width="203" height="49" as="geometry" />
+          <mxGeometry x="584.5" y="775" width="203" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-6" value="Keepalived" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="840" y="775" width="138" height="49" as="geometry" />
@@ -64,10 +64,10 @@
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-30" value="Redis/MQ/Nacos Cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1470" y="830" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gOiUKY6sjZQZ4uEXSWkE-31" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1380" y="1090" as="sourcePoint" />
-            <mxPoint x="1480" y="990" as="targetPoint" />
+        <mxCell id="gOiUKY6sjZQZ4uEXSWkE-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="1060" as="sourcePoint" />
+            <mxPoint x="1450" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
