@@ -64,10 +64,16 @@
         <mxCell id="gOiUKY6sjZQZ4uEXSWkE-30" value="Redis/MQ/Nacos Cluster&lt;br&gt;realtime sync data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1358" y="830" width="312" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gOiUKY6sjZQZ4uEXSWkE-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gOiUKY6sjZQZ4uEXSWkE-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.207;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gOiUKY6sjZQZ4uEXSWkE-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="659" y="920" as="sourcePoint" />
             <mxPoint x="709" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gOiUKY6sjZQZ4uEXSWkE-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="1050" as="sourcePoint" />
+            <mxPoint x="1450" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
